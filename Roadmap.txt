@@ -1,0 +1,10 @@
+Portfolio Website key points:-
+1. tagline
+2. chatbot for contact
+3. featured projects
+4. knowledge & skills
+5. Services add on
+6. contact details
+7. copyright
+
+**Note - for single page website.
