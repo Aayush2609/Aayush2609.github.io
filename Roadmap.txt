@@ -6,5 +6,5 @@ Portfolio Website key points:-
 5. Services add on
 6. contact details
 7. copyright
-
+8. remove template copyright ...(readme, etc.)
 **Note - for single page website.
