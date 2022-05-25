@@ -313,6 +313,25 @@ h6 {
     text-align: center;
 }
 
+
+/* Style buttons */
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+
+/* Darker background on mouse-over */
+
+.btn:hover {
+    background-color: RoyalBlue;
+}
+
 #hero:before {
     content: "";
     background: rgba(255, 255, 255, 0.8);
